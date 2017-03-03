@@ -1,6 +1,6 @@
-# webpdf.js
+# WebPDF.js
 
-Foxit webpdf.js provides a world-class JavaScript library for viewing PDF files in web browsers. It requires no plug-ins and client side rendering -- it is a 100% JavaScript/HTML/CSS solution. Simply put, it offers the same power and accuracy as a desktop PDF viewer such as Foxit Reader, but for web browsers. For free!
+Foxit webpdf.js provides a world-class JavaScript library for viewing PDF files in web browsers. It requires no plug-ins and client side rendering -- it is a 100% JavaScript/HTML/CSS solution. Simply put, it offers the same power and accuracy as a desktop PDF viewer such as Foxit Reader, but for web browsers. 
 
 Webpdf.js is based on Foxit’s advanced PDF engine, which is used by hundreds of millions of people and trusted by a large number of well-known companies around the world. Unlike other libraries such as PDF.js, webpdf.js provides high fidelity PDF rendering inherited from it is market proven technology and it is engineered to be immune to browser variations in html5 support.
 
@@ -64,7 +64,8 @@ There is a default trial key file under folder build/lib/, please contact us for
     build/lib/brotli.js              brotli decompress plug-in, used for compress font file
     build/lib/key.txt                The license key file
 
-
+## Related post
++http://www.foxitsdk.com/insights/introducing-foxits-new-javascript-pdf-viewer/
 
 ## Contact
 
