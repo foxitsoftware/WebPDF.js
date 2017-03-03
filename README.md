@@ -1,10 +1,10 @@
-# webpdf.js
+# WebPDF.js
 
-Foxit webpdf.js provides a world-class JavaScript library for viewing PDF files in web browsers. It requires no plug-ins and client side rendering -- it is a 100% JavaScript/HTML/CSS solution. Simply put, it offers the same power and accuracy as a desktop PDF viewer such as Foxit Reader, but for web browsers. For free!
+Foxit WebPDF.js provides a world-class JavaScript library for viewing PDF files in web browsers. It requires no plug-ins and client side rendering -- it is a 100% JavaScript/HTML/CSS solution. Simply put, it offers the same power and accuracy as a desktop PDF viewer such as Foxit Reader, but for web browsers. For free!
 
-Webpdf.js is based on Foxit’s advanced PDF engine, which is used by hundreds of millions of people and trusted by a large number of well-known companies around the world. Unlike other libraries such as PDF.js, webpdf.js provides high fidelity PDF rendering inherited from it is market proven technology and it is engineered to be immune to browser variations in html5 support.
+WebPDF.js is based on Foxit’s advanced PDF engine, which is used by hundreds of millions of people and trusted by a large number of well-known companies around the world. Unlike other libraries such as PDF.js, WebPDF.js provides high fidelity PDF rendering inherited from it is market proven technology and it is engineered to be immune to browser variations in html5 support.
 
-For developers who have implemented pdf.js in their projects but find the lack of accuracy and support troublesome, we have good news webpdf.js provides an interface that you can use to migrate and replace pdf.js with no changes to your front-end code. It's ready to swap in and do the job you need it to in no time.
+For developers who have implemented pdf.js in their projects but find the lack of accuracy and support troublesome, we have good news WebPDF.js provides an interface that you can use to migrate and replace pdf.js with no changes to your front-end code. It's ready to swap in and do the job you need it to in no time.
 
 Following are the supported features:
 
@@ -33,7 +33,7 @@ Following are the supported features:
    In a web browser, open http://{ip}:{port}/webapp/viewer.html to try out the viewer.
    
 ###Font server selection for non-embedded font files
-webpdf.js need to connect a server to download the font file if a PDF contains no-embedded fonts. We provide 2 public font servers, one each in US and China.
+WebPDF.js need to connect a server to download the font file if a PDF contains no-embedded fonts. We provide 2 public font servers, one each in US and China.
 
 There are two pdf.workder.js files, WebPDF.workder.cn.js is for Chinese server, WebPDF.workder.us.js is for US server.
 
