@@ -1,0 +1,18 @@
+<svg width="100" height="30" xmlns="http://www.w3.org/2000/svg">
+
+ <g>
+  <title>background</title>
+  <rect fill="none" id="canvas_background" height="402" width="582" y="-1" x="-1"/>
+ </g>
+ <g>
+  <title>Layer 1</title>
+  <rect id="svg_1" height="30" width="100" fill="#2E6DAD" x="0"/>
+  <rect id="svg_2" height="25" width="95" stroke-width="1.2" stroke="#FFFFFF" fill="#2E6DAD" y="2.666" x="2.5"/>
+  <g stroke="null" id="svg_3">
+   <g stroke="null" id="svg_4">
+    <polygon stroke="null" id="svg_5" points="16.575000762939453,19.226999282836914 23.05500030517578,11.276000022888184 21.444000244140625,9.838000297546387 15.005000114440918,17.62700080871582 11.062999725341797,14.267000198364258 9.652999877929688,16.020999908447266 14.54800033569336,20.10099983215332 15.319000244140625,20.76799964904785 15.331000328063965,20.753000259399414 15.347999572753906,20.76799964904785 " fill="#FFFFFF"/>
+   </g>
+  </g>
+  <text x="-3" y="0" id="svg_6" font-size="12" font-family="'MicrosoftYaHei'" fill="#FFFFFF" transform="matrix(0.9629629850387573,0,0,1,31.61077791701422,19.333) ">APPROVED</text>
+ </g>
+</svg>

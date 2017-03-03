@@ -1,0 +1,28 @@
+<svg width="100" height="30" xmlns="http://www.w3.org/2000/svg">
+
+ <g>
+  <title>background</title>
+  <rect fill="none" id="canvas_background" height="402" width="582" y="-1" x="-1"/>
+ </g>
+ <g>
+  <title>Layer 1</title>
+  <rect id="svg_1" height="30" width="100" fill="#2E6DAD" x="0"/>
+  <rect id="svg_2" height="25" width="95" stroke-width="1.2" stroke="#FFFFFF" fill="#2E6DAD" y="2.666" x="2.5"/>
+  <path id="svg_3" d="m16.12,7.791l-8.735,0l0,15.26l11.578,0l0,-12.613l-2.857,-0.017l0.014,-2.63zm1.174,11.73l-8.156,0l0,-0.244l8.157,0l0,0.244l-0.001,0zm0.061,-2.007l-8.156,0l0,-0.244l8.157,0l0,0.244l-0.001,0zm0,-2.131l-8.156,0l0,-0.244l8.157,0l0,0.244l-0.001,0zm-0.182,-2.375l0,0.244l-8.157,0l0,-0.244l8.157,0z" fill="none"/>
+  <path id="svg_4" d="m18.963,10.027l0,0l-2.819,-2.602l-2.207,0l0,-0.001l-6.552,0l-0.366,0l0,0.367l0,15.26l0,0.365l0.366,0l11.578,0l0.366,0l0,-0.365l0,-12.686l-0.366,-0.338zm0,13.024l-11.578,0l0,-15.26l8.735,0l-0.014,2.631l2.857,0.017l0,12.612z" fill="#FFFFFF"/>
+  <rect id="svg_5" height="0.244" width="8.157" fill="#FFFFFF" y="13.008" x="9.016"/>
+  <rect id="svg_6" height="0.244" width="8.157" fill="#FFFFFF" y="15.139" x="9.199"/>
+  <rect id="svg_7" height="0.244" width="8.157" fill="#FFFFFF" y="17.27" x="9.199"/>
+  <rect id="svg_8" height="0.244" width="6.107" fill="#FFFFFF" y="19.277" x="9.138"/>
+  <rect id="svg_9" height="0.178" width="8.92" fill="#FFFFFF" y="7.73" x="7.348"/>
+  <rect id="svg_10" height="0.178" width="11.467" fill="#FFFFFF" y="22.902" x="7.52"/>
+  <rect id="svg_11" height="15.324" width="0.178" fill="#FFFFFF" y="7.907" x="7.352"/>
+  <rect id="svg_12" height="13.038" width="0.178" fill="#FFFFFF" y="10.275" x="18.797"/>
+  <g id="svg_13">
+   <g id="svg_14">
+    <polygon id="svg_15" points="17.218,21.095 20.734,16.781 19.859,16 16.361,20.231 14.219,18.406 13.453,19.359 16.112,21.575     16.531,21.938 16.538,21.93 16.547,21.938   " fill="#FFFFFF"/>
+   </g>
+  </g>
+  <text x="-3" y="0" id="svg_16" font-size="10.7043" font-family="'MicrosoftYaHei'" fill="#FFFFFF" transform="matrix(1,0,0,1,31.6665,19.6641) ">COMPLETED</text>
+ </g>
+</svg>
