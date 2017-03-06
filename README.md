@@ -64,7 +64,8 @@ There is a default trial key file under folder build/lib/, please contact us for
     build/lib/brotli.js              brotli decompress plug-in, used for compress font file
     build/lib/key.txt                The license key file
 
-
+## Related article
+http://www.foxitsdk.com/insights/introducing-foxits-new-javascript-pdf-viewer/
 
 ## Contact
 
