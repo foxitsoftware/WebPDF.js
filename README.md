@@ -24,6 +24,9 @@ Following are the supported features:
 
 ## Getting Started
 
+### Prerequest
+  You need a local web server installed, apache or nginx.
+
 ### Online demo
 
 + http://184.105.214.152:8081/web/viewer.html
