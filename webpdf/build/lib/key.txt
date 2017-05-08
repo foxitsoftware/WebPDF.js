@@ -1,11 +1,12 @@
 [Foxit License]
-SN=SDKWP1336
-Modules=View,Annot,Form,Signature
+SN=SDKWPV130
+Modules=View
 Users=1
-Licensee=Foxit Internal Test
-ExpireDate=2017/04/23
-LicenseDate=2017/01/23
-Sign=6F27C656077E19D628F6DDC8450D9D06F7F8175406A7975844C733AC1BC92EAC332502688FFDF3C4
-Restrictions=Ver:2.x,Platform:Windows/Linux
-Checksum=0xE37C500C
+Licensee=Trialkey
+ExpireDate=2017/11/03
+LicenseDate=2017/05/07
+Sign=2B7BADD55FEE23D8B547CC60776F606AD072DA3D31CB7B17E8278E38E24A9CF1A450382A7BFC1FEA
+Restrictions=nowatermark
+Checksum=0xCBA0BF43
+
 

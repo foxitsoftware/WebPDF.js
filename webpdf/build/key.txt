@@ -1,0 +1,11 @@
+[Foxit License]
+SN=SDKWPV130
+Modules=View
+Users=1
+Licensee=Trialkey
+ExpireDate=2017/11/03
+LicenseDate=2017/05/07
+Sign=2B7BADD55FEE23D8B547CC60776F606AD072DA3D31CB7B17E8278E38E24A9CF1A450382A7BFC1FEA
+Restrictions=nowatermark
+Checksum=0xCBA0BF43
+
