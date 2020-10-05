@@ -72,8 +72,6 @@ http://www.foxitsdk.com/insights/introducing-foxits-new-javascript-pdf-viewer/
 
 ## Contact
 
-We would love to hear your feedback on this new project. And of course, if you require more advanced functionality -- we've got that too. Just reach out to us and we'll be happy to help you.
-
 Email: <webpdfdemo@foxitsoftware.com>
 
 [www.foxitsoftware.com](www.foxitsoftware.com)
